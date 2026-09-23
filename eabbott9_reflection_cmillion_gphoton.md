@@ -9,4 +9,4 @@ This longest gap was pretty simple to interpret with just how stark the contrast
     - With the sheer difference in commit frequency before and after the start of the gap, the best explanation is that the project reached its conclusion. The developers then abandonded the project.
         - The gap also started after a release commit (v1.28.9), only supporting this claim further.
 - Recovery
-    - This project definitely did not recover. It died. Hard. The few commits since were likely just small dependency or build updates.
+    - This project definitely did not recover. It died, hard. The few commits since were likely just small dependency or build updates.
