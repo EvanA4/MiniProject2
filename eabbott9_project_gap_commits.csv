@@ -1,0 +1,450 @@
+project,commit,author,time,message,PreOrPost
+daducci_amico,152c98bf72bcaecfe8221e34ef7292fb2a78cda4,nightwnvol <clorindo.notte@univr.it>,1720175883,"docs: update CHANGELOG.md
+",Pre
+daducci_amico,df540093b60240c38a6ff2ea4ceb1181c4f3e936,Clorindo Notte <clorindo.notte@univr.it>,1720179020,"Merge pull request #192 from daducci/release/v2.0.3
+
+[RELEASE] v2.0.3",Pre
+daducci_amico,89eb9bfedc53108289d5c8ad96c65fed1c77ab34,Paul McCarthy <pauldmccarthy@gmail.com>,1720560806,"Merge 9a6b9f0bc58c252771142acab01b659bea55abb6 into df540093b60240c38a6ff2ea4ceb1181c4f3e936
+",Pre
+daducci_amico,145a6896532ba1b2e45eb4c206709f59c1faf461,nightwnvol <clorindo.notte@univr.it>,1737368585,"fix: UserWarning from dipy.core.gradients.gradient_table
+",Pre
+daducci_amico,8a1fa663b8fce39f1bb2069b9096d154382c7dad,nightwnvol <clorindo.notte@univr.it>,1737368630,"build: update numpy dependency; bump to v2.1.0
+",Pre
+daducci_amico,6a8138d185205cce34c1bb033805ebba52646014,nightwnvol <clorindo.notte@univr.it>,1737368660,"docs: update CHANGELOG.md
+",Pre
+daducci_amico,fd5ec27d62692f058b48d9e783acb4084bb83ba7,nightwnvol <clorindo.notte@univr.it>,1737368812,"ci: add cp313 wheels; bump cibuildwheel to v2.22.0
+",Pre
+daducci_amico,a3868d3aa9a39b542f07ce2fd7ef71892c831f47,nightwnvol <clorindo.notte@univr.it>,1737371145,"ci: bump macos x86_64 runners to v13
+",Pre
+daducci_amico,2f76e35dc711f2b6aafda0035b69d9f49bf9c07f,nightwnvol <clorindo.notte@univr.it>,1737373618,"ci: bump macos runner to v13
+",Pre
+daducci_amico,98a772b240e1cd67a26a17f47f7f7738bda41b73,Clorindo Notte <clorindo.notte@univr.it>,1737453133,"Merge pull request #197 from daducci/release/v2.1.0
+
+[RELEASE] v2.1.0",Pre
+daducci_amico,963f2af6d177ac6da407241ec6e67023f8a3c531,Paul McCarthy <pauldmccarthy@gmail.com>,1741612336,"Merge 9a6b9f0bc58c252771142acab01b659bea55abb6 into 98a772b240e1cd67a26a17f47f7f7738bda41b73
+",Post
+daducci_amico,7183ee098f400d08e68be097c170ec078e969295,Alessandro Daducci <daducci@users.noreply.github.com>,1755084527,Update README.md,Post
+daducci_amico,ff8ff257309765319564f30484fdd8aff323532f,Alessandro Daducci <alessandro.daducci@univr.it>,1755085856,"Replaced get_distribution function to retrieve version
+",Post
+daducci_amico,b68d36880c893392f6b065bca1f9a1c7cb550b65,Alessandro Daducci <alessandro.daducci@univr.it>,1755086326,"Updated version and CHANGELOG
+",Post
+daducci_amico,385e47d5ed1fc3ac411f5a000575ba616f7fb72a,Alessandro Daducci <daducci@users.noreply.github.com>,1755090338,"Merge pull request #205 from daducci/204-deprecation-warning-replace-pkg_resources-in-amicocorepy-with-importlibmetadata
+
+Fixes #240",Post
+daducci_amico,29da67d65e7ea843f50d93c0d3441e408faf04ca,Paul McCarthy <pauldmccarthy@gmail.com>,1755091166,"Merge 9a6b9f0bc58c252771142acab01b659bea55abb6 into 7183ee098f400d08e68be097c170ec078e969295
+",Post
+daducci_amico,1fdbc3d6b7a325842bacb3ab7281269f2972db60,Alessandro Daducci <daducci@users.noreply.github.com>,1755093557,"Merge 385e47d5ed1fc3ac411f5a000575ba616f7fb72a into 7183ee098f400d08e68be097c170ec078e969295
+",Post
+daducci_amico,8e132e47c054173da5daf4272ef295dad2304117,Alessandro Daducci <alessandro.daducci@univr.it>,1758042139,"Binarize input mask
+",Post
+daducci_amico,906ba055f33852e0703407b1d824bbc1de76a6d1,Alessandro Daducci <alessandro.daducci@univr.it>,1758042555,"Updated version and changelog
+",Post
+daducci_amico,5a94d2a40dd59fbc4b7e317659b9a4666b89bbc5,Alessandro Daducci <daducci@users.noreply.github.com>,1758042660,"Merge 906ba055f33852e0703407b1d824bbc1de76a6d1 into 7183ee098f400d08e68be097c170ec078e969295
+",Post
+yangjasp_optimall,51ba27edf9d9221c04c408aaf69e9bf9c31d0733,yangjasp <61026656+yangjasp@users.noreply.github.com>,1643059429,"Update .Rbuildignore
+
+add .Rbuildignore",Pre
+yangjasp_optimall,7134abebce1f859a28427031eb2d517af0362270,yangjasp <jbyang@outlook.come>,1643059452,"New version number
+",Pre
+yangjasp_optimall,8f8f5e1947ad22276bab73630b49b20f663f318a,yangjasp <jbyang@outlook.come>,1643060017,"Version 0.1.1
+",Pre
+yangjasp_optimall,31cc388ca613549a08507e6961da6c0a39dec1ed,yangjasp <jbyang@outlook.come>,1643300300,"Changed CRAN link to canonical form
+",Pre
+yangjasp_optimall,84a5fc3bf36b01dd53922ad7e880a595ce5f3321,yangjasp <jbyang@outlook.come>,1643312521,"Remove note, as it no longer appears
+",Pre
+yangjasp_optimall,8d26f551a65c5375d5629ed802a75043c7894506,yangjasp <jbyang@outlook.come>,1643322577,"Add note
+",Pre
+yangjasp_optimall,b7a89f8b148fa5a87111fc8cb46ea29aed141927,yangjasp <jbyang@outlook.come>,1643322586,"Add note
+",Pre
+yangjasp_optimall,4365634d00216c8ddbe9ff3941f980a3c1b1281c,yangjasp <jbyang@outlook.come>,1667736931,"Fix failure on M1mac
+",Pre
+yangjasp_optimall,5b0ff70d22e23fba192eebb4a4d9b29fb464aaa3,yangjasp <jbyang@outlook.come>,1667736944,"Version 0.1.2 update
+",Pre
+yangjasp_optimall,3137b5ed3f69eacdc05e451332211a7b9b433053,yangjasp <jbyang@outlook.come>,1667903319,"Update for version 0.1.2
+",Pre
+yangjasp_optimall,045e4dae8a199914dd3e18ca5b3962a637bb20fc,yangjasp <jbyang@outlook.come>,1691514818,"Version 0.1.3 - update email
+",Post
+yangjasp_optimall,6681311da314ea9baa45f5702bb9c0dbb41e2840,yangjasp <jbyang@outlook.come>,1691514832,"version 0.1.3
+",Post
+yangjasp_optimall,b6dc3be0dab76273ac33c7ceccef0ed9dc7b7188,yangjasp <jbyang@outlook.come>,1691514874,"add allocation_method
+",Post
+yangjasp_optimall,236a3fddd16410f3c1050b5ca4ca68c10a2f2914,yangjasp <jbyang@outlook.come>,1694019883,"Allow inputnobinding
+",Post
+yangjasp_optimall,1bb8ba74ce1e1e2f724d0d9d3d1fb2431e648ef6,yangjasp <jbyang@outlook.come>,1694019901,"Update for 0.1.3
+",Post
+yangjasp_optimall,bc51d9ab0e1d4cef740afd3bd6123df279c928df,yangjasp <jbyang@outlook.come>,1694019908,"Add bug fix
+",Post
+yangjasp_optimall,19a0e2be53c56d5231cb7fb68654ca7adefa1664,yangjasp <jbyang@outlook.come>,1694020405,"temp
+",Post
+yangjasp_optimall,7bdb7a70fbaab0024666bf8eca3aa12dece69b05,yangjasp <jbyang@outlook.come>,1694020412,"Release
+",Post
+yangjasp_optimall,b947c66822c4a8cfc878b868c29208f8c72abcf1,yangjasp <jbyang@outlook.come>,1704418611,"Default to detailed = TRUE when allocate_wave() is applied within apply_multiwave().
+",Post
+yangjasp_optimall,3bde55e7950aa1522913ee49939c2d845195334b,yangjasp <jbyang@outlook.come>,1704828762,"Fix bracket typo
+",Post
+anybotics_kindr,fd0074893ef202617b23445be72f063e48f77925,Ralf Kaestner <ralf.kaestner@gmail.com>,1424199319,"* Switched from C++0x to C++11 compiler flags
+* Removed precise distribution due to a lack of C++11 support
+",Pre
+anybotics_kindr,da6dac051f2c1180e996e318b043c3662781dcfa,Ralf Kaestner <ralf.kaestner@gmail.com>,1424200532,"Increased tolerance for test EulerAnglesZyxTest.cpp:577 since it would fail on i386 systems
+",Pre
+anybotics_kindr,76ee962db3055d670e57dbada119cac684d75539,Christian Gehring <gehrinch@ethz.ch>,1424271858,"Fixed unused template parameter for vector::setSegment
+",Pre
+anybotics_kindr,975eb7f8eb917cbc75c2ebc04e62e8230b1ca36f,Christian Gehring <gehrinch@ethz.ch>,1424272296,"Merge pull request #58 from ethz-asl/fix/vector
+
+Fixed unused template parameter for vector::setSegment",Pre
+anybotics_kindr,c8f172d8b5e0c6f4f7f54449ceede68a5580085f,Ralf Kaestner <ralf.kaestner@gmail.com>,1424320941,"Merge branch 'master' of github.com:ethz-asl/kindr into remake
+",Pre
+anybotics_kindr,1700a3520a03f820d585118ea877e75b68980d7e,Ralf Kaestner <ralf.kaestner@gmail.com>,1424321102,"Updated changelog
+",Pre
+anybotics_kindr,80062b95712aab23c36e152a63bb619d8dd9dd9c,Ralf Kaestner <ralf.kaestner@gmail.com>,1424940917,"Updated README.md
+",Pre
+anybotics_kindr,e7755917717ec4866185cca0785bd9fd9ffc89cf,Ralf Kaestner <ralf.kaestner@gmail.com>,1424940917,"Updated README.md
+",Pre
+anybotics_kindr,c9ef2552fdbaa492fcedb3f417cb55d78f81fed6,remod <rdiethelm@gmail.com>,1425460179,Update Readme.md,Pre
+anybotics_kindr,b6815f552962bd956f6ca2b20061d59873e60e3d,Remo Diethelm <rdiethelm@gmail.com>,1445255641,"increased tolerance for unit quaternions
+",Pre
+anybotics_kindr,74709969f2033204c50f5b89d60e9ad6f5df9e9b,pleemann <pleemann@ethz.ch>,1456748229,"Clean Eigen3 includes
+",Post
+anybotics_kindr,d48db4cea7c588940886b8bb20c378a1416378fa,pleemann <pleemann@ethz.ch>,1456758393,"undone commenting CMAKE_MODULE_PATH changes
+",Post
+anybotics_kindr,d7efd398b4a3881a9b6519a0ebcc3e5d5c9006d3,Christian Gehring <gehrinch@ethz.ch>,1456913218,"Merge pull request #61 from ethz-asl/feature/install
+
+Feature/install",Post
+anybotics_kindr,8971f51e4f4bcef5470850e4a9401418a4505e38,pleemann <pleemann@ethz.ch>,1462958635,"replaced system dependency names with rosdep key
+",Post
+anybotics_kindr,4c3ee5c506eb58215402bf411e2740ad2b5b6c0b,pleemann <pleemann@ethz.ch>,1463045047,"Merge pull request #62 from ethz-asl/feature/rosdep
+
+replaced system dependency names with rosdep key",Post
+anybotics_kindr,45b60da9ad499c48855e78044d8925651007e71d,Samuel Bachmann <samuel.bachmann@gmail.com>,1464609796,"fix eigen dependency
+
+Otherwise it is not possible to create a debian package.
+",Post
+anybotics_kindr,bdca1acddc4e4c0f2e5638d196907e00e996c179,Samuel Bachmann <samuel.bachmann@gmail.com>,1464609896,"0.0.1
+",Post
+anybotics_kindr,b3e889110c055bb20983ce404310a6c0fd418293,Paul Furgale <paul.furgale@gmail.com>,1464675821,"Merge 413ad66a6207d14c5f5b472786fbddfd55532dea into bdca1acddc4e4c0f2e5638d196907e00e996c179
+",Post
+anybotics_kindr,7ffcbd97f1f357595510300fbe665492899020bc,Thomas Schneider <schneith@ethz.ch>,1464863035,"Fix find eigen.
+",Post
+anybotics_kindr,41ca993d1abd922447e0edc06c43d9f5bf0e8f3d,Hannes Sommer <hannes.sommer@mavt.ethz.ch>,1465171181,"Merge 2499c05d50d4bbc5fc660de57b0a31365790e804 into bdca1acddc4e4c0f2e5638d196907e00e996c179
+",Post
+scikit-fuzzy_scikit-fuzzy,f8882805f830de34d0e187081ec7094ad0318add,Jakub Baliński <balinski.jakub@gmail.com>,1617457331,"Update docs link, add Matplotlib as dependency
+",Pre
+scikit-fuzzy_scikit-fuzzy,1c135bfe773c4559024f7ced2df6a0e9e08ead22,Jakub Baliński <balinski.jakub@gmail.com>,1617872000,"Remove temporary fix for dependency on decorator package
+",Pre
+scikit-fuzzy_scikit-fuzzy,7c6897766a312e0bb561d58c611a19e906511194,Jakub Baliński <balinski.jakub@gmail.com>,1617872831,"Fix error when testing version numbers with PATCH version
+",Pre
+scikit-fuzzy_scikit-fuzzy,799acb835ab1d970978c6f3e3c82829a395c1e60,Jakub Balinski <balinski.jakub@gmail.com>,1617872844,"Merge 7c6897766a312e0bb561d58c611a19e906511194 into 92ad3c382ac19707086204ac6cdf6e81353345a7
+",Pre
+scikit-fuzzy_scikit-fuzzy,3f6d4d2909e6529a041aca9b813235b87bcc7454,Josh Warner <silvertrumpet999+github@gmail.com>,1651874512,"Merge pull request #280 from balins/gh-actions
+
+Migrate to GitHub Actions",Pre
+scikit-fuzzy_scikit-fuzzy,db0b39b64d73f169b672b657afa7b4f52f5a16f3,Joshua D. Warner <Warner.Joshua@mayo.edu>,1652717801,"MAINT: Update gitwash submodule tools to fix GH-actions
+",Pre
+scikit-fuzzy_scikit-fuzzy,c3e97522c6a5b2e2b5d3c996bd4dcce0f91f891d,Josh Warner <silvertrumpet999+github@gmail.com>,1652719362,"Update .gitmodules
+
+Correct submodule branch name
+
+Co-authored-by: Jakub Balinski <balinski.jakub@gmail.com>",Pre
+scikit-fuzzy_scikit-fuzzy,6ab2a26aed37009e06c61abddd7346bbf6e6ac24,Joshua D. Warner <Warner.Joshua@mayo.edu>,1652720248,"MAINT: Update Gitwash
+",Pre
+scikit-fuzzy_scikit-fuzzy,956488d895604e9c9be3fd93349b53d99ed20bb1,Joshua D. Warner <Warner.Joshua@mayo.edu>,1652722070,"DOCFIX: Try local paths for Gitwash
+",Pre
+scikit-fuzzy_scikit-fuzzy,8c7e0bad85edef23ad066af5f856f3c38053cea0,Joshua D. Warner <Warner.Joshua@mayo.edu>,1652849871,"MAINT: Update Gitwash again after merge of my PR
+",Pre
+scikit-fuzzy_scikit-fuzzy,d15fa478914f97accd3dbd1cb10706175d79583b,Felipe Arruda Pontes <felipe.arruda.pontes@gmail.com>,1659630594,"adding Pipfile to gitignore, this way people using Pipenv won't need to worry about commiting the Pipfile.
+",Post
+scikit-fuzzy_scikit-fuzzy,2c7610bb1af730006e90a9304c075dc8ebfd9bcb,Felipe Arruda Pontes <felipe.arruda.pontes@gmail.com>,1659630998,"just starting the new module for MCDM
+",Post
+scikit-fuzzy_scikit-fuzzy,6c392ca8c47b2e40492b27f0dec71a16d8bf9932,phme283 <84307890+phme283@users.noreply.github.com>,1660213388,Correct documentation link,Post
+scikit-fuzzy_scikit-fuzzy,3f2e9d3e51a9cadb589e2a8597a910ecf4438e89,Josh Warner <silvertrumpet999+github@gmail.com>,1660415903,"Merge pull request #292 from phme283/patch-1
+
+DOC: Correct documentation link in README",Post
+scikit-fuzzy_scikit-fuzzy,f89360e3ddd343b87fb304d6caa1ed15938a3815,Joshua Warner <SilverTrumpet999+github@gmail.com>,1660438277,"MAINT: Scipy removed `pinv2`, in favor of `pinv`
+",Post
+scikit-fuzzy_scikit-fuzzy,9de3d0b81bc7bc0cf307f6170cc4fa9d2610a449,Joshua Warner <silvertrumpet999@gmail.com>,1660517533,"DOC: Update Gitwash and project URL
+",Post
+scikit-fuzzy_scikit-fuzzy,9a130b6f1d7e146a4e069827d7e69f9d94af0d73,Joshua Warner <silvertrumpet999@gmail.com>,1660518549,"DOCBUILD: Specify the Gitwash URL to avoid a git:// issue
+Problem was on Gitwash's side...
+",Post
+scikit-fuzzy_scikit-fuzzy,0fd13022508ef42d3673696a84eb440cc7bece99,Josh Warner <silvertrumpet999+github@gmail.com>,1660519231,"Merge pull request #293 from JDWarner/fix_pinv2
+
+MAINT: Scipy removed `pinv2`, in favor of `pinv`",Post
+scikit-fuzzy_scikit-fuzzy,58f5e8fb930e01013909deeb3fce67b9abcfd602,Josh Warner <silvertrumpet999+github@gmail.com>,1660520055,"Merge pull request #294 from JDWarner/gitwash-test
+
+Fix to gitwash cloning timeout (old default URL used `git://`)",Post
+scikit-fuzzy_scikit-fuzzy,0832efe8f0f6d5260625d15a59b3d28340c4b3be,Josh Warner <silvertrumpet999+github@gmail.com>,1660520268,"Merge pull request #247 from MarcoMiretti/safe-matplotlib-inclusion
+
+fix(imports): pass matplotlib ImportError as matplotlib is not a hard dependency",Post
+mhhennig_hs2,feadde2d128dc60c5116899d8ccd9917fd8d7c4e,colehurwitz <colehurwitz@gmail.com>,1580312574,"on tag
+",Pre
+mhhennig_hs2,cb531c0e3c80b1da7211ac2d6161dcc87688b1ad,colehurwitz <colehurwitz@gmail.com>,1580313441,"verison increment
+",Pre
+mhhennig_hs2,fb6255eeeb3025ecd2e70458e20cd73e73fd466e,Matthias Hennig <mhhennig@gmail.com>,1582468703,"version up
+",Pre
+mhhennig_hs2,45665a2b64384bf6757bdd92c72e84e0c2a203fa,Matthias Hennig <mhhennig@gmail.com>,1582468721,"Silence during detection
+",Pre
+mhhennig_hs2,74032cc0e4181cd958c78b41e633ee3595307b3e,vincent girouard <vincent.girouard@usherbrooke.ca>,1585318996,"convert notebook to python script
+",Pre
+mhhennig_hs2,0122304b85090c8ce0ebcab7972c1e94fcfede26,Kevin Sanchez Lacroix <ksanchezlacroix@gmail.com>,1601245800,"Made a script to call from ibionics gui
+",Pre
+mhhennig_hs2,9cbce40e5af2d9756aa861ec6dc010bc41759d77,Kevin Sanchez Lacroix <ksanchezlacroix@gmail.com>,1601335744,"created script to run with virtual environment on mac and linux (temporary until we decide how we package it all)
+",Pre
+mhhennig_hs2,8a77a50b41e31394f250be882f9a1e9cfc4bfa33,Kevin Sanchez Lacroix <ksanchezlacroix@gmail.com>,1601490826,"minor ajustments to arg parser
+",Pre
+mhhennig_hs2,79552afa57466ce7aa55c5ba2e07c44f50f53c7f,Matthias H. Hennig <m.hennig@ed.ac.uk>,1624918252,"quick fix for spikeinterface 0.9
+
+SpikeInterface 0.9 `rx.get_num_frames()` requires the segment_index as positional argument. Quick (temporary) hack with exception to make it work.",Pre
+mhhennig_hs2,3ad2ca389eea447a50ebff6c48fbed80dbfe5ef5,Matthias H Hennig <mhhennig@gmail.com>,1624965199,"minor fixes
+",Pre
+mhhennig_hs2,49133b4dd7d0771e641670c74b73f0776c8db3e0,Alessio Buccino <alejoe9187@gmail.com>,1633333642,"Update to SI>=0.90
+",Post
+mhhennig_hs2,f738bcf89d5c94dc7b5694f003cf216424299d8e,Alessio Buccino <alejoe9187@gmail.com>,1633334604,"Remove python3.5 tests
+",Post
+mhhennig_hs2,c593a89c7ad86f8e228647a8a8dc3a52ebac399a,Matthias H Hennig <mhhennig@gmail.com>,1634942817,"Transition to SpikeInterface 0.90
+",Post
+mhhennig_hs2,d93e08365d357e8c2209e5a26f131445a8231d07,Matthias H. Hennig <m.hennig@ed.ac.uk>,1634942973,"Merge pull request #54 from alejoe91/master
+
+Update to SI>=0.90
+Removed all old probe information, data handling will be done with SpikeInterface in future. Only BioCam support is still included.
+Unit tests are disabled until SI dependencies are added.  ",Post
+mhhennig_hs2,29823b09602aae32415086b4098dea2932f2fb49,Matthias H. Hennig <m.hennig@ed.ac.uk>,1643795925,Fixed imports,Post
+mhhennig_hs2,3409aeabc0053cb8ddd32819c1a73ffadb97fa38,mhhennig <m.hennig@ed.ac.uk>,1647899750,"bumped up version for pypi
+",Post
+mhhennig_hs2,76c612f7592b4a15d2027c39a8e156ea8a2b98e3,mhhennig <m.hennig@ed.ac.uk>,1647900403,"create build env with numpy
+",Post
+mhhennig_hs2,45462e76e74766f291f0b525a412c1ee521468b5,lkct <liangkct@yahoo.com>,1654871212,"use os.path.join instead of +
+",Post
+mhhennig_hs2,7dd84c74cb4ad5ddefbc3740206d8cd06e68c382,Matthias H. Hennig <m.hennig@ed.ac.uk>,1654872073,"Merge pull request #60 from lkct/path_join
+
+use os.path.join instead of +",Post
+mhhennig_hs2,80204761f2e43db579ded865237121c63f160590,lkct <liangkct@yahoo.com>,1656066424,"tCut correction
+",Post
+bids-apps_rshrf,f903f29894a185f12d936bcc234159e7215bfb49,Daniele Marinazzo <daniele.marinazzo@gmail.com>,1648725396,Update README.md,Pre
+bids-apps_rshrf,0a56dac91f2e6e77ee834089eca556a9c804996d,Daniele Marinazzo <daniele.marinazzo@gmail.com>,1652858296,Update README.md,Pre
+bids-apps_rshrf,6fdaa7f0ff582a5587a4b826d3e599d7a7444c3a,Daniele Marinazzo <daniele.marinazzo@gmail.com>,1652862326,Update README.md,Pre
+bids-apps_rshrf,cba2e88f3fc599cccec50b77fb3f1ef717562082,Daniele Marinazzo <daniele.marinazzo@gmail.com>,1663147381,Update README.md,Pre
+bids-apps_rshrf,4f6ca269130850d3f5056838b71656901737ca73,Remi Gau <remi_gau@hotmail.com>,1673098956,"use dockerhub context to push images
+",Pre
+bids-apps_rshrf,904184c9a333fd733c04b10c6d19fb9cbb2b2585,Remi Gau <remi_gau@hotmail.com>,1673100031,"split CI in different jobs
+",Pre
+bids-apps_rshrf,0b12565163f5061879f1a3d9973f798f37bac2b4,Remi Gau <remi_gau@hotmail.com>,1673100336,"only use one deploy job in the workflow
+",Pre
+bids-apps_rshrf,7043ab622553bbaa6c089dc4d06236fd8d3e1317,Remi Gau <remi_gau@hotmail.com>,1673101670,"split workflow into more jobds
+",Pre
+bids-apps_rshrf,4873d0c881c9d1eddfeee8a71f97281837254da4,DemirEgeOrtac <147850529+demiregeortac666@users.noreply.github.com>,1750936645,"Fix critical pyyawt dependency and improve algorithm stability
+
+- Replace non-existent pyyawt module with PyWavelets in iterative Wiener deconvolution
+- Implement proper noise estimation using MAD method
+- Add bounds checking to prevent index errors
+- Update dependencies in requirements.txt and setup.py
+- Fix deprecated GIFTI file handling in spm.py
+- Improve error handling and numerical stability
+- Update unit tests to match algorithm changes.
+",Pre
+bids-apps_rshrf,5c25678e46be60d73a188ad527bd9341f2d86f78,DemirEgeOrtac <147850529+demiregeortac666@users.noreply.github.com>,1750937526,"Update README for upstream integration readiness
+
+ Restructure README to highlight fixes for maintainers
+",Pre
+bids-apps_rshrf,2c8a302c4d25d4beb203f1b13a33265e86f64b12,Alejandro Veloz <aveloz@Alejandros-MacBook-Pro.local>,1752090951,"solve pyyawt compatibility
+",Post
+bids-apps_rshrf,c521c2a58c819f648b70a13312487c3415f14eeb,Alejandro Veloz <aveloz@Alejandros-MacBook-Pro.local>,1753810189,"compatibility changes
+",Post
+bids-apps_rshrf,e6fdc791683e1d37cc8de3d2b8f7ba76f5f87c63,Alejandro Veloz <154351601+aavelozb@users.noreply.github.com>,1753813876,"Merge c521c2a58c819f648b70a13312487c3415f14eeb into 7043ab622553bbaa6c089dc4d06236fd8d3e1317
+",Post
+bids-apps_rshrf,cded113d92bed2ffeedbd0829e39977db8b57e1d,Daniele Marinazzo <daniele.marinazzo@gmail.com>,1753861467,"Merge pull request #17 from demiregeortac666/master
+
+Fix critical pyyawt dependency and improve algorithm stability",Post
+bids-apps_rshrf,bb5024e2d3d9a96d96876bd3b8abda1e41a2f29e,aavelozb <aavelozb@gmail.com>,1755195396,"minor changes
+",Post
+bids-apps_rshrf,2bbf948e0521617aed4a216ac87051c2246453d6,aavelozb <aavelozb@gmail.com>,1755195709,"minor changes
+",Post
+bids-apps_rshrf,c69a9a23db941fc459585288e71c209b1b389e7d,aavelozb <aavelozb@gmail.com>,1755196294,"minor changes
+",Post
+bids-apps_rshrf,45a5545d0581fbe016d5507747a689449a2fef2e,aavelozb <aavelozb@gmail.com>,1755196666,"minor changes
+",Post
+bids-apps_rshrf,02bfea597942919f6852a5ab34c3e551ffe72b17,aavelozb <aavelozb@gmail.com>,1755197568,"minor changes
+",Post
+bids-apps_rshrf,69c433c29f2851ed52546b05004d93a5230afb55,aavelozb <aavelozb@gmail.com>,1755197932,"minor changes
+",Post
+juliastats_lasso.jl,47a158408630924909786dd0ec7b00e4d553ba78,Asaf Manela <AsafManela@users.noreply.github.com>,1692517970,"update compats and bump patch version
+",Pre
+juliastats_lasso.jl,2f5f7cccb19cf5be3869e74aedc18f6999f5d1d3,zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>,1692519921,"build based on 47a1584
+",Pre
+juliastats_lasso.jl,e7a74d2affdfd364ec54d7ff900ef26ed5224b63,zeptodoctor <44736852+zeptodoctor@users.noreply.github.com>,1692643993,"build based on 47a1584
+",Pre
+juliastats_lasso.jl,505f7ee879f361fcab2dac0e54a2900518e05587,barankarakus <34224042+barankarakus@users.noreply.github.com>,1695994606,"Merge 5ac04f7befcd797043b3b882d0a6b092d3c9dd51 into 47a158408630924909786dd0ec7b00e4d553ba78
+",Pre
+juliastats_lasso.jl,b91a75a1ffe248255768a8a1131dfd99857c9656,Am386DX-40 <kristof.meers@gmail.com>,1727873752,Pass rng to MinCVmse and MinCV1se,Pre
+juliastats_lasso.jl,0531189aa017f485c26ce4c68a3dc0327d9b40d7,Am386DX-40 <kristof.meers@gmail.com>,1727873752,Pass rng to MinCVmse and MinCV1se,Pre
+juliastats_lasso.jl,0fed8fba3aae0ba9edbb51441ea7bbc2cc99a43b,Am386DX-40 <kristof.meers@gmail.com>,1728055535,"Test MinCV1se and MinCVmse with StableRNG
+",Pre
+juliastats_lasso.jl,7fc992b6607ed3f70b43d111e7e395a00f8ed32c,Am386DX-40 <kristof.meers@gmail.com>,1728055535,"Test MinCV1se and MinCVmse with StableRNG
+",Pre
+juliastats_lasso.jl,05a3fcd2e8f780e908dc2ffa78f1743f70c9ec62,Asaf Manela <AsafManela@users.noreply.github.com>,1728201372,"bumped Lasso and GLM versions
+",Pre
+juliastats_lasso.jl,47ec5bd37c3d0bf5cabaaa092ebce0b416981ed7,Asaf Manela <AsafManela@users.noreply.github.com>,1728201372,"bumped Lasso and GLM versions
+",Pre
+juliastats_lasso.jl,781a2576de070e504447fe95ee414e4e95c4416d,Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>,1761842254,"bump dsp in compat
+",Post
+juliastats_lasso.jl,5294ba4fab652454db695a50fc34f2e3ff26ce85,Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>,1761842271,"bump version to 0.7.3
+",Post
+juliastats_lasso.jl,7cb4e480c90895f2000410a1b2476903ed44f63b,Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>,1761843462,"update CI
+",Post
+juliastats_lasso.jl,cf73167ec66c4cf5ea1430d544a92b77a7440324,Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>,1761843655,"update actions/cache to v4
+",Post
+juliastats_lasso.jl,0e08e4f49dec4f537fa524e81dc79fc1f0787d28,Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>,1761909290,"nightly to pre
+",Post
+juliastats_lasso.jl,0734834fd94e0407b34c8f86c23d753fd132c4e6,Mohamed Tarek <mohamed82008@gmail.com>,1761910442,"Support DSP 0.8 and bump version (#84)
+
+* bump dsp in compat
+
+* bump version to 0.7.3
+
+* update CI
+
+* update actions/cache to v4
+
+* nightly to pre
+
+---------
+
+Co-authored-by: Mohamed Tarek <mohamedtarek@Mohameds-MacBook-Pro.local>",Post
+juliastats_lasso.jl,c836b618fd17078eebe68b9e7e5054ced60a2737,CompatHelper Julia <compathelper_noreply@julialang.org>,1761958101,"CompatHelper: add new compat entry for MLBase at version 0.9 for package docs, (keep existing compat)
+",Post
+juliastats_lasso.jl,31c4c583f3b63c20f290f1d8757f13c84e7aa746,CompatHelper Julia <compathelper_noreply@julialang.org>,1762044548,"CompatHelper: add new compat entry for Lasso at version 0.7 for package docs, (keep existing compat)
+",Post
+juliastats_lasso.jl,0c992984f0b362d17bdb6b9e6f5933121b2b8ebc,github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>,1762090511,"CompatHelper: add new compat entry for MLBase at version 0.9 for package docs, (keep existing compat) (#85)
+
+Co-authored-by: CompatHelper Julia <compathelper_noreply@julialang.org>",Post
+juliastats_lasso.jl,163974782e8b10541b86cd871d7cb9344f00b711,CompatHelper Julia <compathelper_noreply@julialang.org>,1762090739,"CompatHelper: add new compat entry for Lasso at version 0.7 for package docs, (keep existing compat)
+",Post
+dcc-lab_pyhardwarelibrary,939ffca7c8b3b214b77acadae2d76d5029dd0660,Daniel Côté <dccote@cervo.ulaval.ca>,1694542375,"Merge pull request #62 from DCC-Lab/list-usb-devices
+
+Added a simple option to list all devices quickly",Pre
+dcc-lab_pyhardwarelibrary,133c43c875bdadb12c313fc2bbe3403e1c01e87a,Daniel Côté <dccote@cervo.ulaval.ca>,1694542405,"Merge branch 'master' into pr/61
+",Pre
+dcc-lab_pyhardwarelibrary,407488370e1f87bb384e1fc5f3d4e51f6aa1fb80,Philippe Carpentier-Savard <philippecsavard@gmail.com>,1694542462,"Merge 133c43c875bdadb12c313fc2bbe3403e1c01e87a into 939ffca7c8b3b214b77acadae2d76d5029dd0660
+",Pre
+dcc-lab_pyhardwarelibrary,530126827599da16ca9aee45638aa6895c250173,Daniel Côté <dccote@cervo.ulaval.ca>,1739393081,"Added support for USB650 which is almost a USB2000
+
+Figured out by trial an error the USB endpoint after confirming with a representative that the USB650 should be essentially a USB2000.
+",Pre
+dcc-lab_pyhardwarelibrary,2d9b9189145fb5e799e29eebf05e14fcf3d20c2b,Daniel Côté <dccote@cervo.ulaval.ca>,1739393249,"Update .gitignore
+",Pre
+dcc-lab_pyhardwarelibrary,104040f4c2cd42d18f3c99714b7598a3f6b5dbe4,Daniel Côté <dccote@cervo.ulaval.ca>,1739393559,"Added explanation in code for USB2000/USB650
+",Pre
+dcc-lab_pyhardwarelibrary,d58756e258f3a169d0435fb42e47e1ad5dbd208c,Daniel Côté <dccote@cervo.ulaval.ca>,1739393593,"Added model name to USB650
+",Pre
+dcc-lab_pyhardwarelibrary,a9cb17585040d2b37a3314f4f1c75b2ed5dfe2c9,Daniel Côté <dccote@cervo.ulaval.ca>,1739393740,"Update oceaninsight.py
+",Pre
+dcc-lab_pyhardwarelibrary,13915b0333a8099953f6163c998e3ca21513db37,Daniel Côté <dccote@cervo.ulaval.ca>,1739459171,"Update README.md
+
+Improved rant with justification.",Pre
+dcc-lab_pyhardwarelibrary,0f20293609bfdce77284a4e389ac1c91333deca0,Daniel Côté <dccote@cervo.ulaval.ca>,1739460130,"Update README-1-USB.md
+
+Added comment for libusb and fixed typo.",Pre
+dcc-lab_pyhardwarelibrary,22a70818980a82b80a13a974ec6ffc2ad9e4d431,Daniel Côté <dccote@cervo.ulaval.ca>,1750695249,"Crash fix: make sure animate and save are not called together.
+",Post
+dcc-lab_pyhardwarelibrary,3aa3c23e4d62a4e26470305b2c421322f5056a4f,Daniel Côté <dccote@cervo.ulaval.ca>,1750695293,"Merge pull request #63 from DCC-Lab/usb650
+
+Added support for USB650 which is almost a USB2000
+fixed a bug in the viewer.py app",Post
+dcc-lab_pyhardwarelibrary,f57c5d393240fb6804b8aef6f929c75d1a823fef,Daniel Côté <dccote@cervo.ulaval.ca>,1750695480,"Update viewer.py
+",Post
+dcc-lab_pyhardwarelibrary,1175b53206410be9b8d453c5d241926911287749,Daniel Côté <dccote@cervo.ulaval.ca>,1750695726,"Start
+",Post
+dcc-lab_pyhardwarelibrary,bd52ba3209902b8ac0eaff840f08cf1816843b0d,Daniel Côté <dccote@cervo.ulaval.ca>,1750695797,"Merge branch 'master' into bluetoothArduino
+",Post
+dcc-lab_pyhardwarelibrary,dab349f9223219560662108d2a40ff6c64880678,Daniel Côté <dccote@cervo.ulaval.ca>,1750695884,"Merge branch 'master' into fixingTests
+",Post
+dcc-lab_pyhardwarelibrary,304084e52741fe56d9de6ba69f60939c96824ce3,Daniel Côté <dccote@cervo.ulaval.ca>,1750695932,"Merge dab349f9223219560662108d2a40ff6c64880678 into f57c5d393240fb6804b8aef6f929c75d1a823fef
+",Post
+dcc-lab_pyhardwarelibrary,0a6ad9408bf9a04fe29848abcd04dcfca665e0f3,Daniel Côté <dccote@cervo.ulaval.ca>,1750695943,"Merge branch 'master' into hamamatsu
+",Post
+dcc-lab_pyhardwarelibrary,3623fc35f26b8807dfded397e37248c52d02a0b2,Daniel Côté <dccote@cervo.ulaval.ca>,1750695985,"Merge 0a6ad9408bf9a04fe29848abcd04dcfca665e0f3 into f57c5d393240fb6804b8aef6f929c75d1a823fef
+",Post
+dcc-lab_pyhardwarelibrary,18bb923580a322e959a99ccffb031956c55df0e8,Daniel Côté <dccote@cervo.ulaval.ca>,1750696151,"Merge branch 'master' into qepro
+",Post
+cmillion_gphoton,d246213581f0d73315907c0ee0e456dea32b138b,cmillion <chase@millionconcepts.com>,1534387057,"return information about detector q
+",Pre
+cmillion_gphoton,908cd6749e34379d13b451a551c0def243a5c587,cmillion <chase@millionconcepts.com>,1534427886,"remove testing for python 2.7
+",Pre
+cmillion_gphoton,36d36c48730d8b5bd354390843865b9c3821be23,Chase Million <1483210+cmillion@users.noreply.github.com>,1534431080,"Merge pull request #286 from cmillion/v1.28.9
+
+V1.28.9",Pre
+cmillion_gphoton,cd7704edfc9fc0a5dd9e2418dc2505cd9477a2e2,cmillion <chase@millionconcepts.com>,1568742342,"Experimental updates to PhotonPipe. Writing to HDF instead of CSV for speed improvements. Adjusting how flagged data are handled.
+",Pre
+cmillion_gphoton,cec48112d9c274323dba2a098e9c92c34c533a56,Scott Fleming <fleming@stsci.edu>,1691439914,"updating RTD config files and metadata
+",Pre
+cmillion_gphoton,3ab106785afaa8e052e75e52e7ba7e1be8ac79af,Scott Fleming <fleming@stsci.edu>,1691440898,"maybe don't need the install package in requirements.txt?
+",Pre
+cmillion_gphoton,4a4edda06d811b23f77c4e00486f821065f35936,Scott Fleming <fleming@stsci.edu>,1691441118,"fixing incorrect path to conf.py
+",Pre
+cmillion_gphoton,cfd46fcfcf11b14d853d3cf5ffa1a60d3eeebaa4,Scott Fleming <fleming@stsci.edu>,1691441407,"adding -e option in requirements.txt in case it helps
+",Pre
+cmillion_gphoton,fc55e5e620a48109ca6252277cabd54c6ee7ba69,Bruno Arsioli <57162790+BrunoArsioli@users.noreply.github.com>,1693311637,extra notes regarding dependencies (need to use/add urllib3==1.26.7),Pre
+cmillion_gphoton,68d24dc6b227a327b949e17c890a3b4f928be1c1,Chase Million <1483210+cmillion@users.noreply.github.com>,1693313298,"Merge pull request #290 from BrunoArsioli/patch-1-Update-Install-instructions
+
+extra notes regarding dependencies (need to use/add urllib3==1.26.7)",Pre
+cmillion_gphoton,0471f608e19cd56efcd834478c62ef369a099d91,Chase Million <1483210+cmillion@users.noreply.github.com>,1739431319,Update README.md,Post
+cmillion_gphoton,df22ccf7106f24b7083f97535c8bdf318a54393b,Joysankar Majumdar <163396093+joysankar-astro@users.noreply.github.com>,1762296129,Create pyproject.toml,Post
+cmillion_gphoton,bf430f81a1b8a10e6b0d1d56aa1a72f32f74ff2b,Joysankar Majumdar <163396093+joysankar-astro@users.noreply.github.com>,1762296960,Update pyproject.toml,Post
+aim-uofa_adelaidet,73209f1602dba62344312572649f316b5a37e268,Lyan <lingyan@zjut.edu.cn>,1656336999,"new
+",Pre
+aim-uofa_adelaidet,d5bda435b9fb276991970b336e3cfca590d5b3bb,Lyan <lingyan@zjut.edu.cn>,1656337154,"new
+",Pre
+aim-uofa_adelaidet,4a3a1f7372c35b48ebf5f6adc59f135a0fa28d60,chhshen <chhshen@yahoo.com>,1656651967,"Merge pull request #568 from aghand0ur/patch-1
+
+Update solov2.py",Pre
+aim-uofa_adelaidet,d427d3f5ab60364943f2c713b0b11f557af749a7,闫令 <65017880+Lyan-ing@users.noreply.github.com>,1658562266,"Update train_net.py
+
+There are some bug when load the optimizer and scheduler in checkpoint, we change the ""train_net.py"" according to the codes in ""FreeSOLO"" that committed by Xinlong Wang.",Pre
+aim-uofa_adelaidet,4f8f2edb558321e8f231326f15e53a5133a4db0f,闫令 <65017880+Lyan-ing@users.noreply.github.com>,1658562410,Update train_net.py,Pre
+aim-uofa_adelaidet,824b18cfdf8268a8e5d6ee4779371db13280d828,akalankag <boney.ag@gmail.com>,1664227440,"Dissolve for loop to str.join
+",Pre
+aim-uofa_adelaidet,6a553d47c30fd341e8898d579d58cb93f4c9cab8,NingYuanLin <57001533+NingYuanLin@users.noreply.github.com>,1665317657,fix bug: set adet as parent logger,Pre
+aim-uofa_adelaidet,e25471dab771017539fe5dc62c41ace03f00e906,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1669102722,"Bump pillow from 8.1.1 to 9.3.0 in /docs
+
+Bumps [pillow](https://github.com/python-pillow/Pillow) from 8.1.1 to 9.3.0.
+- [Release notes](https://github.com/python-pillow/Pillow/releases)
+- [Changelog](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)
+- [Commits](https://github.com/python-pillow/Pillow/compare/8.1.1...9.3.0)
+
+---
+updated-dependencies:
+- dependency-name: pillow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",Pre
+aim-uofa_adelaidet,5c90d9013e9e84e2fa25a00c32ae2ec98eb0bf60,Coolshanlan <coolshanlan@gmail.com>,1670319986,"fix evaluation result record bug
+",Pre
+aim-uofa_adelaidet,9ab6d51e75e15b34fb4e7632f33617281136cc70,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1696372521,"Bump pillow from 8.1.1 to 10.0.1 in /docs
+
+Bumps [pillow](https://github.com/python-pillow/Pillow) from 8.1.1 to 10.0.1.
+- [Release notes](https://github.com/python-pillow/Pillow/releases)
+- [Changelog](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)
+- [Commits](https://github.com/python-pillow/Pillow/compare/8.1.1...10.0.1)
+
+---
+updated-dependencies:
+- dependency-name: pillow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",Pre
+aim-uofa_adelaidet,9ae19106e643746d165aa1ec83402097a9ae533f,Chen Yongfan <76237862+Jeckinchen@users.noreply.github.com>,1699584510,"Update README.md
+
+Update the download link for shared files",Post
+aim-uofa_adelaidet,29a026388f285f8e67336cd614729e94b58cf94f,Wen Wang <30790888+encounter1997@users.noreply.github.com>,1699604016,"Merge pull request #623 from Jeckinchen/master
+
+Update README.md",Post
+aim-uofa_adelaidet,8c9dbbf63d4138a3c19cb708ed1bae571a3db2ff,Nicolas Maier <20108526+MaierN@users.noreply.github.com>,1700785084,"fix: remove obsolete ml_nms
+",Post
+aim-uofa_adelaidet,fb6ee4c12c112f8fb164f4a6edb013e35e68171e,Tian Zhi <zhi.tian@adelaide.edu.au>,1702139836,Update CondInst model download links,Post
+aim-uofa_adelaidet,101a1b76ad6272a10ac81e0463b1b2612d633d70,Tian Zhi <zhi.tian@adelaide.edu.au>,1702140143,Update README.md,Post
+aim-uofa_adelaidet,400949af491c527362e3e2ecf24f148097d7042b,Tian Zhi <zhi.tian@adelaide.edu.au>,1702140556,update FCOS model download links,Post
+aim-uofa_adelaidet,e89b1e414b177e2bda6ec53108e9bf447122ce96,Tian Zhi <zhi.tian@adelaide.edu.au>,1702141068,Update README.md,Post
+aim-uofa_adelaidet,5f3b7bcea984d9ad425848a9e17ef83921bec61f,Tian Zhi <zhi.tian@adelaide.edu.au>,1702141498,Update model download links,Post
+aim-uofa_adelaidet,ec83507356c23bf23dab8c344280f1c45b381930,Tian Zhi <zhi.tian@adelaide.edu.au>,1702142586,Update README.md,Post
+aim-uofa_adelaidet,fd9729115715621fcd437a3f047cc86a1912399d,Tian Zhi <zhi.tian@adelaide.edu.au>,1702203363,update BoxInst mode download links,Post
